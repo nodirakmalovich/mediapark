@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-        <div className="footer bg-blue-950 py-[30px]">
+        <div className="footer bg-blue-950 mt-[30px] py-[30px]">
             <div className="container">
                 <div className="footer_row flex justify-between  gap-[35px]">
                     <ul>
