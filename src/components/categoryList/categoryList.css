@@ -1,0 +1,6 @@
+.category {
+    overflow-x: scroll;
+    white-space: nowrap;
+    scrollbar-color: transparent transparent;
+    
+}
